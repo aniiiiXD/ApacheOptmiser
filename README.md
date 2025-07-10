@@ -132,9 +132,7 @@ License
 Apache 2.0 - See LICENSE for details.
 Contact
 
-Data Engineering Team - data@yourcompany.com
-Project Lead: Your Name
-text
+
 
 
 This Markdown includes:
